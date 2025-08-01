@@ -1,4 +1,5 @@
-🧩 2048 Game
+# 🧩 2048 Game
+
 A web-based version of the classic 2048 puzzle game. The goal is to combine tiles with the same number by sliding them across the grid until you reach the 2048 tile.
 
 # ✨ Features
